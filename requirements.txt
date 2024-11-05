@@ -1,0 +1,2 @@
+sympy==1.12
+ttkthemes==3.2.2
